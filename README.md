@@ -5,11 +5,11 @@ Imparto módulos de **Desarrollo y Sistemas en Red**, centrados en la práctica 
 
 ---
 
-## 🧩 Módulos que imparto
+## 🧩 Módulos que imparto en el curso 2025 - 2026
 - 💻 **Entornos de Desarrollo** – Git, GitHub, NetBeans, VS Code, control de versiones y depuración.  
 - 🌐 **Servicios en Red** – Servidores Linux, DNS, DHCP, Apache2, FTP, SSH, correo y Docker.  
 - ☁️ **Despliegue de Aplicaciones Web** – Infraestructura, Docker Compose, AWS Academy, LAMP, etc.  
-- 📦 **Administración de Sistemas en Red (SMR)** – Redes, seguridad y virtualización (VirtualBox, Ubuntu Server).  
+- 📦 **Introducción a la nube** – Amazon Web Services.  
 
 ---
 
@@ -43,7 +43,7 @@ Imparto módulos de **Desarrollo y Sistemas en Red**, centrados en la práctica 
 ---
 
 ## 📫 Contacto
-📧 **alfonso.serrano@iestorrevigia.es**  
+📧 **a.serranoalbert@edu.gva.es**  
 🌍 [IES Torrevigía](https://iestorrevigia.es)  
 💬 [LinkedIn](https://www.linkedin.com) *(añádelo si tienes uno profesional)*
 
