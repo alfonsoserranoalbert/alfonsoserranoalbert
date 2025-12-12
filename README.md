@@ -34,18 +34,12 @@ Imparto módulos de **Desarrollo y Sistemas en Red**, centrados en la práctica 
 
 ---
 
-## 📂 Repositorios destacados
-🔹 [Práctica: Servidor Apache2 con Virtual Hosts](https://github.com/tuusuario/apache2-practica)  
-🔹 [Práctica: Docker + API Dragon Ball](https://github.com/tuusuario/docker-dragonball)  
-🔹 [Práctica: Git y GitHub con calculadora Java](https://github.com/tuusuario/git-calculadora)  
-🔹 [Unidad: DNS y BIND9 – Servicios en Red](https://github.com/tuusuario/dns-bind9)  
 
----
 
 ## 📫 Contacto
 📧 **a.serranoalbert@edu.gva.es**  
 🌍 [IES Torrevigía](https://iestorrevigia.es)  
-💬 [LinkedIn](https://www.linkedin.com) *(añádelo si tienes uno profesional)*
+💬 [LinkedIn](https://www.linkedin.com/in/alfonsoserranoalbert/)
 
 ---
 
